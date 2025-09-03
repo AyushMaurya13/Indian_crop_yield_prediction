@@ -25,11 +25,11 @@ The main goal is to showcase how **machine learning apps** can be prototyped qui
 ---
 ## 📂 Project Structure  
 ### 📦 indian-crop-yield-prediction
-** ┣ 📜 app.py # Streamlit app
-** ┣ 📜 README.md # Project documentation
-** ┗ 📜 requirements.txt # Python dependencies
-
+- ** ┣ 📜 app.py # Streamlit app
+- ** ┣ 📜 README.md # Project documentation
+- ** ┗ 📜 requirements.txt # Python dependencies
+---
 ## 👨‍💻 Author
 ### Ayush Kumar Maurya
-** 🎓 B.Tech CSE (Data Science)
-** 💡 Aspiring Data Scientist
+- ** 🎓 B.Tech CSE (Data Science)
+- ** 💡 Aspiring Data Scientist
