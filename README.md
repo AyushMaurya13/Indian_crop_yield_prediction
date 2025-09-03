@@ -7,7 +7,7 @@ Instead of using a real dataset, the system uses **synthetic data generated with
 The main goal is to showcase how **machine learning apps** can be prototyped quickly with **Streamlit**, even without real-world data.  
 
 ---
-<img src="https://pixabay.com/photos/rapeseeds-field-tractor-nature-4910374/" width="300" height="200">
+<img src="https://cdn.pixabay.com/photo/2020/03/07/17/16/rapeseeds-4910374_1280.jpg" width="300" height="200">
 
 
 
