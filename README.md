@@ -1,5 +1,7 @@
 # 🌾 Indian Crop Yield Prediction  
-<img src="https://cdn.pixabay.com/photo/2020/03/07/17/16/rapeseeds-4910374_1280.jpg" width="1000" height="500">
+<img src="https://cdn.pixabay.com/photo/2020/03/07/17/16/rapeseeds-4910374_1280.jpg" width="11000" height="450">
+
+
 ---
 ## 📌 Project Overview  
 This project demonstrates a **Crop Yield Prediction System** built with **Streamlit**.  
