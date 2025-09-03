@@ -1,15 +1,11 @@
 # 🌾 Indian Crop Yield Prediction  
-
+<img src="https://cdn.pixabay.com/photo/2020/03/07/17/16/rapeseeds-4910374_1280.jpg" width="1000" height="500">
+---
 ## 📌 Project Overview  
 This project demonstrates a **Crop Yield Prediction System** built with **Streamlit**.  
 Instead of using a real dataset, the system uses **synthetic data generated with `random.randint()`** to simulate crop yield values.  
 
 The main goal is to showcase how **machine learning apps** can be prototyped quickly with **Streamlit**, even without real-world data.  
-
----
-<img src="https://cdn.pixabay.com/photo/2020/03/07/17/16/rapeseeds-4910374_1280.jpg" width="300" height="200">
-
-
 
 ---
 ## 🚀 Features  
