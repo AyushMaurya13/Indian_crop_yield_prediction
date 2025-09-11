@@ -38,5 +38,5 @@ The main goal is to showcase how **machine learning apps** can be prototyped qui
 
 ---
 
-[Github](https://github.com/AyushMaurya13/Indian_crop_yield_prediction)
-[Live App](https://indiancropyieldprediction-mmwh4csrahy6kqchvcxipm.streamlit.app/)
+- Project Code[Github](https://github.com/AyushMaurya13/Indian_crop_yield_prediction)
+- Project App [Live App](https://indiancropyieldprediction-mmwh4csrahy6kqchvcxipm.streamlit.app/)
