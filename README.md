@@ -35,7 +35,7 @@ The main goal is to showcase how **machine learning apps** can be prototyped qui
 
 <div align="center">
 
-### **Ayush Maurya**
+### **Ayush Kumar Maurya**
 *Data Scientist | Python Developer | Machine Learning Engineer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushMaurya13)
