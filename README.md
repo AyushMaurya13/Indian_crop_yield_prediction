@@ -52,3 +52,4 @@ The main goal is to showcase how **machine learning apps** can be prototyped qui
 - 🌐 **Portfolio**: [Personal Website](https://ayushmaurya13.github.io/my_data_science_portfolio/)
 - 📧 **Contact**: ayushmaurya01cs@gmail.com
 - 🐦 **Updates**: [Twitter](https://x.com/ayush_maur10241)
+- **LiveApp**: [Demo](https://indiancropyieldprediction-mmwh4csrahy6kqchvcxipm.streamlit.app/)
